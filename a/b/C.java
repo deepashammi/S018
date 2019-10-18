@@ -5,10 +5,10 @@ public class C {
         int abc = 10;
         int cde = abc * 5;
         abc = cde + 7;
-        abc= abc+18;
+        abc= abc+180;
     }
 {
-    public void y() {
+    public void y1() {
         int abc = 18;
         int cde = abc * 5;
         abc = cde + 7;
